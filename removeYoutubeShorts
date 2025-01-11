@@ -31,3 +31,5 @@ m.youtube.com##[tab-title="Shorts"]
 
 ! YT Mobile - Hide Shorts Sections
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents:last-child > ytm-rich-section-renderer.rich-section-single-column:nth-child(2) > div.rich-section-content
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents:last-child > ytm-rich-section-renderer.rich-section-single-column:nth-child(5) > div.rich-section-content
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents:last-child > ytm-rich-section-renderer.rich-section-single-column:nth-child(6)
